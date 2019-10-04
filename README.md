@@ -1,5 +1,5 @@
 # SwanEvolution
-In this repository one can find a source code of an algorithm, described [here](https://arxiv.org/abs/1906.08587).
+In this repository one can find a source code of an algorithm, described [here](https://www.researchgate.net/publication/333665595_Robust_Ensemble-Based_Evolutionary_Calibration_of_the_Numerical_Wind_Wave_Model).
 We propose a robust evolutionary calibration approach that allows to build the stochastic ensemble of perturbed models and use it to achieve the trade-off  between quality and robustness of the model calibration results.
 ## More
 REBEC (Robust Ensemble-Based Evolutionary Calibration of SWAN model) helps to obtain the forecasts and hindcasts of desired quality, identifying the suitable physical parameters
